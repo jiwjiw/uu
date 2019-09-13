@@ -1,3 +1,7 @@
 hello world!
 from local2!
+<<<<<<< HEAD
+from local3!
+=======
 from local5!
+>>>>>>> master
